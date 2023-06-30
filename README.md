@@ -1,1 +1,3 @@
 # Simple_Books_API_Testing
+This repository provides a set of tests and examples for the Simple_Books API (https://simple-books-api.glitch.me).
+Here i use this API for CRUD (GET, POST, PATH, PATCH, DELETE) methods.
